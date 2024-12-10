@@ -1,7 +1,7 @@
-project_name: "poc_demos"
+project_name: "demo"
 
 local_dependency: {
-  project: "poc_demos"
+  project: "demo"
 }
 
 localization_settings: {
